@@ -1,21 +1,20 @@
 ---
 authors:
-- admin
+Marta Vukovic
 bio: My research interests include nationalism, right-wing and left-wing populism, multiculturalism, and cosmopolitanism in a globalized world.
 education:
 MA, Nationalism Studies, Central European University
 BA, Economics, Politics and Social Thought, Bard College Berlin
-  courses:
   - 
 email: "vukovicmarta@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- national populism
+- cosmopolitanism
+- democracy
 organizations:
-- name: Stanford University
+- name: Central European University
   url: ""
-role: Professor of Artificial Intelligence
+role: MA Student
 social:
 - icon: envelope
   icon_pack: fas
